@@ -28,7 +28,7 @@ I started  my data career as a Data Analyst while pursuing my Bachelor's Degree 
 - **Lane Detection System** - Computer vision project for vehicle lane detection
 
 ## Open to Opportunities
-I'm open to roles and collaboration in AI/ML, computer vision, and autonomous systems.
+I'm open to roles and collaboration in AI/ML, structural health monitoring, computer vision, and autonomous systems.
 
 ## 📫 Let's Connect
 - **LinkedIn:** [https://www.linkedin.com/in/chinonso-okonkwo/](https://www.linkedin.com/in/chinonso-okonkwo/)
